@@ -206,7 +206,7 @@ class Wheel {
   showWinningNumbers(number) {
     // Set status to showing result
     this.showingResult = true;
-    this.showWinningNumber(1, number);
+    this.showWinningNumber(0, number);
   }
 
   /**
