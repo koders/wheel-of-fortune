@@ -1,0 +1,19 @@
+{
+  "name": "test-assignment",
+  "version": "1.0.0",
+  "description": "Front-end developer test assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristapsPelna/testAssignment.git"
+  },
+  "author": "Kristaps Peļņa",
+  "license": "ISC",
+  "homepage": "https://github.com/kristapsPelna/testAssignment#readme",
+  "devDependencies": {
+    "serve": "5.0.4"
+  }
+}

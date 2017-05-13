@@ -1,0 +1,28 @@
+{"frames": {
+
+"arrow.png":
+{
+	"frame": {"x":0,"y":0,"w":149,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":149,"h":158},
+	"sourceSize": {"w":149,"h":158}
+},
+"wheel.png":
+{
+	"frame": {"x":149,"y":0,"w":601,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":601,"h":600},
+	"sourceSize": {"w":601,"h":600}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprite-sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":750,"h":600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1de27e1fc6fd13d485f8841820ca2ec4:53a5d20b52364aa27d9a93e5ef544314:cd13abdf2a56b77727e6b0eac52cbb45$"
+}
+}
